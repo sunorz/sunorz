@@ -1,5 +1,7 @@
 # Support / 赞助
 
+<img src="https://github.githubassets.com/assets/mona-e50f14d05e4b.png" width="64" />
+
 If my tools or websites have brought value to your daily workflow or saved you time, you can support my independent development by buying me a coffee ☕.
 
 如果我的工具或网站对你的日常有所帮助，欢迎通过下方的独立赞助页面支持我的持续开发：
