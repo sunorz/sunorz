@@ -13,62 +13,64 @@ If my tools or websites have brought value to your daily workflow or saved you t
 # 🛠️ Projects / 项目概览
 
 <table> <tr> <td valign="top" width="50%">
-  
+
+## B
+
+### [Bulk email system]()
+
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/mail-system)
+
+A lightweight PHP mail system and customer management tool featuring group categorization, batch emailing, MD5 authentication, and password encryption utilities.
+
 ## C
 
-### calendar
+### [Cloud Drive](https://github.com/sunorz/cloud_files)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://kkii.org/assets/calendar.html) [![Android](https://img.shields.io/badge/Platform-Android-475569?style=flat-square&logo=android&logoColor=white&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/calendar)
-
-Lightweight, ad-free, and open-source Android calendar featuring Chinese official and local holidays, senior mode, home screen widgets, and dual language support.
-
-### cloud files
-
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/cloud_files)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)]()
 
 A lightweight PHP and MySQL private cloud storage and file sharing system with secure share-code access.
 
-## D
+### [CN ShiftCal](https://github.com/sunorz/calendar)
 
-### demo
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://kkii.org/assets/calendar.html) [![Android](https://img.shields.io/badge/Platform-Android-475569?style=flat-square&logo=android&logoColor=white&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) 
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://sunorz.github.io/demo) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/demo)
-
-A collection of non-AI, foundational CSS and JavaScript interactive effects and web development demos for teaching purposes.
+Lightweight, ad-free, and open-source Android calendar featuring Chinese official and local holidays, senior mode, home screen widgets, and dual language support.
 
 ## E
 
-### exceltoolkit
+### [Excel Toolkit](https://github.com/sunorz/exceltoolkit)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows-475569?style=flat-square&labelColor=24292f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDFoMTAuNXYxMC41SDF6TTEyLjUgMUgyM3YxMC41SDEyLjV6TTEgMTIuNWgxMC41VjIzSDF6TTEyLjUgMTIuNUgyM1YyM0gxMi41eiIvPjwvc3ZnPg%3D%3D)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/exceltoolkit)
+[![Windows](https://img.shields.io/badge/Platform-Windows-475569?style=flat-square&labelColor=24292f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDFoMTAuNXYxMC41SDF6TTEyLjUgMUgyM3YxMC41SDEyLjV6TTEgMTIuNWgxMC41VjIzSDF6TTEyLjUgMTIuNUgyM1YyM0gxMi41eiIvPjwvc3ZnPg%3D%3D)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#)
 
 A lightweight Windows C++ utility that adds visible and invisible watermarks to spreadsheets to prevent data leakage.
 
 ## F
 
-### FileType Icons Pack
+### [File Type Icons Pack](https://github.com/sunorz/FileType_Icons_Pack)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/FileType_Icons_Pack)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) 
 
 Reference the SVG icon file in the web page
+
+## H
+
+### [HTML Demo](https://github.com/sunorz/demo)
+
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://sunorz.github.io/demo) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#)
+
+A collection of non-AI, foundational CSS and JavaScript interactive effects and web development demos for teaching purposes.
 
  </td><td valign="top" width="50%">
    
 ## L
 
-### lijun
+### [Lijun Website](https://github.com/sunorz/lijun)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/lijun)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#)
 
 A legacy ASP.NET and MS-SQL website source code featuring a promotional homepage, photo gallery, local comment system, and product catalog. For reference only.
 
 ## M
-
-### mail system
-
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/mail-system)
-
-A lightweight PHP mail system and customer management tool featuring group categorization, batch emailing, MD5 authentication, and password encryption utilities.
 
 ### micro twitter
 
