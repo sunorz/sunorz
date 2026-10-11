@@ -36,7 +36,7 @@ A collection of non-AI, foundational CSS and JavaScript interactive effects and 
 
 ### exceltoolkit
 
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=microsoft&logoColor=white)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-orange?style=flat-square)](#) [![Archived](https://img.shields.io/badge/Status-Archived-red?style=flat-square)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/exceltoolkit)
+[![Windows]([https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=microsoft&logoColor=white)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-orange?style=flat-square](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xIDFoMTAuNXYxMC41SDF6TTEyLjUgMUgyM3YxMC41SDEyLjV6TTEgMTIuNWgxMC41VjIzSDF6TTEyLjUgMTIuNUgyM1YyM0gxMi41eiIvPjwvc3ZnPg%3D%3D))](#) [![Archived](https://img.shields.io/badge/Status-Archived-red?style=flat-square)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/exceltoolkit)
 
 A lightweight Windows C++ utility that adds visible and invisible watermarks to spreadsheets to prevent data leakage.
 
