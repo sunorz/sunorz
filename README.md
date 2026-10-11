@@ -76,7 +76,7 @@ A legacy ASP.NET and MS-SQL website source code featuring a promotional homepage
 
 [![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://microx.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Multi_AIs-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Info](https://img.shields.io/badge/Status-Info-4f7cac?style=flat-square&labelColor=24292f)](#) 
 
-A lightweight, database-free personal microbloging and status stream powered by file storage, featuring rich media, privacy controls, X (Twitter) sync, and CLI management.
+A lightweight, database-free personal microbloging and status stream powered by file storage, featuring rich media, privacy controls, X (Twitter) sync.
 
 ## N
 
