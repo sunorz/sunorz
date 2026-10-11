@@ -10,6 +10,8 @@ If my tools or websites have brought value to your daily workflow or saved you t
 
 # 🛠️ Projects / 项目概览
 
+<table> <tr> <td valign="top" width="50%">
+  
 ## C
 
 ### calendar
@@ -48,6 +50,8 @@ A lightweight Windows C++ utility that adds visible and invisible watermarks to 
 
 Reference the SVG icon file in the web page
 
+ </td><td valign="top" width="50%">
+   
 ## L
 
 ### lijun
@@ -77,3 +81,5 @@ A lightweight, database-free personal microbloging and status stream powered by 
 [![Web](https://img.shields.io/badge/Platform-Web-4E9F3D?style=flat-square)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-blue?style=flat-square)](#) [![Archived](https://img.shields.io/badge/Status-Archived-red?style=flat-square)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/NightSky)
 
 Crafted without AI: A dynamic 2D night sky simulator with procedural stars, moon phases, and interactive planets.
+
+</td></tr></table>
