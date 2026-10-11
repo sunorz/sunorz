@@ -26,7 +26,7 @@ A lightweight PHP mail system and customer management tool featuring group categ
 
 ### [Cloud Drive](https://github.com/sunorz/cloud_files)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)]()
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) 
 
 A lightweight PHP and MySQL private cloud storage and file sharing system with secure share-code access.
 
