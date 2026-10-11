@@ -56,7 +56,7 @@ Reference the SVG icon file in the web page
   
 ## H
 
-### [HTML Demo](https://github.com/sunorz/demo)
+### [HTML Example Lab](https://github.com/sunorz/demo)
 
 [![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://sunorz.github.io/demo) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#)
 
