@@ -16,9 +16,9 @@ If my tools or websites have brought value to your daily workflow or saved you t
 
 ## B
 
-### [Bulk email system]()
+### [Bulk Email System](https://github.com/sunorz/mail-system)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/mail-system)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#)
 
 A lightweight PHP mail system and customer management tool featuring group categorization, batch emailing, MD5 authentication, and password encryption utilities.
 
