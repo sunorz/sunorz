@@ -18,7 +18,7 @@ If my tools or websites have brought value to your daily workflow or saved you t
 
 ### calendar
 
-[![Web](https://img.shields.io/badge/Platform-Web-4E9F3D?style=flat-square)](https://kkii.org/assets/calendar.html) ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-orange?style=flat-square)](#) [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/calendar)
+[![Web](https://img.shields.io/badge/Platform-Web-4E9F3D?style=flat-square)](https://kkii.org/assets/calendar.html) [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Google_AI_Studio-orange?style=flat-square)](#) [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/calendar)
 
 Lightweight, ad-free, and open-source Android calendar featuring Chinese official and local holidays, senior mode, home screen widgets, and dual language support.
 
