@@ -52,6 +52,8 @@ A lightweight Windows C++ utility that adds visible and invisible watermarks to 
 
 Reference the SVG icon file in the web page
 
+ </td><td valign="top" width="50%">
+  
 ## H
 
 ### [HTML Demo](https://github.com/sunorz/demo)
@@ -60,8 +62,6 @@ Reference the SVG icon file in the web page
 
 A collection of non-AI, foundational CSS and JavaScript interactive effects and web development demos for teaching purposes.
 
- </td><td valign="top" width="50%">
-   
 ## L
 
 ### [Lijun Website](https://github.com/sunorz/lijun)
@@ -72,17 +72,17 @@ A legacy ASP.NET and MS-SQL website source code featuring a promotional homepage
 
 ## M
 
-### micro twitter
+### [MicroX](https://github.com/sunorz/micro-twitter)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://microx.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Multi_AIs-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Info](https://img.shields.io/badge/Status-Info-4f7cac?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/micro-twitter)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://microx.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Multi_AIs-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Info](https://img.shields.io/badge/Status-Info-4f7cac?style=flat-square&labelColor=24292f)](#) 
 
 A lightweight, database-free personal microbloging and status stream powered by file storage, featuring rich media, privacy controls, X (Twitter) sync, and CLI management.
 
 ## N
 
-### NightSky
+### [NightSky](https://github.com/sunorz/NightSky)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#) [![Repository](https://img.shields.io/badge/GitHub-Repo-374151?style=flat-square&logo=github&labelColor=24292f)](https://github.com/sunorz/NightSky)
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#)
 
 Crafted without AI: A dynamic 2D night sky simulator with procedural stars, moon phases, and interactive planets.
 
