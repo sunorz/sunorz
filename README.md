@@ -80,7 +80,7 @@ A lightweight, database-free personal microbloging and status stream powered by 
 
 ## N
 
-### [NightSky](https://github.com/sunorz/NightSky)
+### [Night Sky](https://github.com/sunorz/NightSky)
 
 [![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://x.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Archived](https://img.shields.io/badge/Status-Archived-8b8f99?style=flat-square&labelColor=24292f)](#)
 
