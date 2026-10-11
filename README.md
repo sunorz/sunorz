@@ -10,6 +10,9 @@ If my tools or websites have brought value to your daily workflow or saved you t
 
 ### 🛠️ Projects / 项目概览
 
-* **Calendar (Kotlin)**: Lightweight, ad-free Android calendar and desktop widget.
-* **Excel Watermark (C++)**: Native utility for adding visible/invisible sheet watermarks.
-* **Web Systems (PHP/JS)**: Minimal self-hosted tools and visualization utilities.
+## lijun
+
+![Web](https://img.shields.io/badge/Platform-Web-4E9F3D?style=flat-square) ![No](https://img.shields.io/badge/Vibe_Coding-No-blue?style=flat-square) ![Archived](https://img.shields.io/badge/Status-Archived-red?style=flat-square) [![Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sunorz/lijun)
+
+A legacy ASP.NET and MS-SQL website source code featuring a promotional homepage, photo gallery, local comment system, and product catalog. For reference only.
+
