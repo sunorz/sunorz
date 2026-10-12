@@ -1,6 +1,6 @@
 # Support / 赞助
 
-<img src="https://github.githubassets.com/assets/mona-e50f14d05e4b.png" width="64" />
+<a href="#"><img src="https://github.githubassets.com/assets/mona-e50f14d05e4b.png" width="64" /></a>
 
 If my tools or websites have brought value to your daily workflow or saved you time, you can support my independent development by buying me a coffee ☕.
 
