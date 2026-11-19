@@ -82,7 +82,7 @@ A lightweight, database-free personal microbloging and status stream powered by 
 
 ### [Night Sky](https://github.com/sunorz/NightSky)
 
-[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://x.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Manual-5b6b82?style=flat-square&labelColor=24292f)](#) [![Coding Method](https://img.shields.io/badge/Coding_Method-Muse_AI-7c6aa8?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) 
+[![Web](https://img.shields.io/badge/Platform-Web-475569?style=flat-square&labelColor=24292f)](https://x.kkii.org) [![Coding Method](https://img.shields.io/badge/Coding_Method-Muse_AI-a8a86a?style=flat-square&labelColor=24292f)](#) [![Active](https://img.shields.io/badge/Status-Active-3f8f6b?style=flat-square&labelColor=24292f)](#) 
 
 A dynamic 2D night sky simulator with procedural stars, moon phases, and interactive planets.
 
